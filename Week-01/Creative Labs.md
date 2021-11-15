@@ -1,6 +1,6 @@
-#### **WEEK ONE: CREATIVE LABS**
+**#### WEEK ONE: CREATIVE LABS**
 
-# **Don't Choose**
+**# Don't Choose**
 -----------------
 #### Make decisions efficiently and minimize the energy consumption of human choice.
 
