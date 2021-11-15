@@ -7,7 +7,7 @@
 
 ![PJY pre01 1027](https://user-images.githubusercontent.com/92034503/141848774-d61730bc-26fd-4a3c-9c6a-66fc45013655.jpg)
 
-#### *- I want to explore the boundary between human and machine, in fact I thinkThere has never been a clear boundary between us and the machine.*
+#### *- I want to explore the boundary between human and machine, in fact， I think there has never been a clear boundary between us and the machine.*
 
 
 ## · 02
