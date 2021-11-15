@@ -9,11 +9,11 @@
 
 ## · Inspiration：
 
-#### **In the past** ：The war,  colonization and slavery are the products of dehumanization, making people have no self-consciousness and work and live just as machines and beasts.
+#### *- In the past* ：The war,  colonization and slavery are the products of dehumanization, making people have no self-consciousness and work and live just as machines and beasts.
 
-#### **After the Industrial Revolution** ：With the emerge of advanced science and technology, lots of machines that can liberate human labor，but… human beings still cannot get rid of the boring work like machine.
+#### *- After the Industrial Revolution* ：With the emerge of advanced science and technology, lots of machines that can liberate human labor，but… human beings still cannot get rid of the boring work like machine.
 
-#### **Nowdays** ：Many people live without any aims and repeat the work day by day ,空， walking forward along the same track of life just as a machine without thoughts.
+#### *- Nowdays* ：Many people live without any aims and repeat the work day by day ,空， walking forward along the same track of life just as a machine without thoughts.
 
 #### I am not against the combination of man and machine, but I am very concerned about the boundary between man and machine
 #### In fact，the concept of dehumanization is gradually permeating our lives and our view of the world.
