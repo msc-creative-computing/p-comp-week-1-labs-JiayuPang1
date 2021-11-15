@@ -10,7 +10,7 @@
 #### After pressing the switch, the circuit runs autonomously, and the small light bulbs will light up in sequence according to the code instructions.
 ![week 01 creative labs_1](https://user-images.githubusercontent.com/92034503/141812064-9a639762-640e-4f34-95ac-d4cb36efaced.gif)
 
-
+---------------
 ## Concept of Design
 
 #### In life, people are always easy to face choices, and will struggle and hesitate in the process. A lot of human time and energy are consumed. 
@@ -67,6 +67,7 @@ void loop()
 }
 ```
 
+-------------
 ## Engineering Circuit Diagram
 <img width="799" alt="week01-Engineering circuit diagram" src="https://user-images.githubusercontent.com/92034503/141814761-2f81da53-bb4a-4473-95ae-4d6f93faa792.png">
 
