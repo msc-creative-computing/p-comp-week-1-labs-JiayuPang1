@@ -24,7 +24,7 @@
 
 `int AnimationSpeed = 0;`
 
-(```
+```
 void setup()
 {
   pinMode(2, INPUT);
@@ -35,9 +35,9 @@ void setup()
   pinMode(9, OUTPUT);
   pinMode(13, OUTPUT);
 }
-```)
+```
 
-(```
+```
 void loop()
 {
   AnimationSpeed = 400;
@@ -65,7 +65,7 @@ void loop()
     digitalWrite(13, LOW);
   }
 }
-```)
+```
 
 ## Engineering Circuit Diagram
 <img width="799" alt="week01-Engineering circuit diagram" src="https://user-images.githubusercontent.com/92034503/141814761-2f81da53-bb4a-4473-95ae-4d6f93faa792.png">
