@@ -1,13 +1,13 @@
-**#### WEEK ONE: CREATIVE LABS**
+#### WEEK ONE: CREATIVE LABS
 
-**# Don't Choose**
+#**Don't Choose**
 -----------------
-#### Make decisions efficiently and minimize the energy consumption of human choice.
+####Make decisions efficiently and minimize the energy consumption of human choice.
 
 ## Operating mode
 
-#### The switch controls whether the entire circuit can operate. 
-#### After pressing the switch, the circuit runs autonomously, and the small light bulbs will light up in sequence according to the code instructions.
+####The switch controls whether the entire circuit can operate. 
+####After pressing the switch, the circuit runs autonomously, and the small light bulbs will light up in sequence according to the code instructions.
 ![week 01 creative labs_1](https://user-images.githubusercontent.com/92034503/141812064-9a639762-640e-4f34-95ac-d4cb36efaced.gif)
 
 ## Concept of Design
