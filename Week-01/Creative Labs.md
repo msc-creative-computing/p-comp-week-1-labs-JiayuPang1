@@ -18,8 +18,9 @@
 #### As long as you press the switch, the computer will automatically match and select all the user's personal information entered in the background.
 #### People have relieved a lot of thinking burden, but is the choice under such big data valuable? It is worth thinking about.
 
----------------
+
 ## Code
+-----------
 
 `int AnimationSpeed = 0;`
 
@@ -66,8 +67,10 @@ void loop()
 }
 ```
 
-----------
+
 ## Engineering Circuit Diagram
+------------------
+
 <img width="799" alt="week01-Engineering circuit diagram" src="https://user-images.githubusercontent.com/92034503/141814761-2f81da53-bb4a-4473-95ae-4d6f93faa792.png">
 
 
