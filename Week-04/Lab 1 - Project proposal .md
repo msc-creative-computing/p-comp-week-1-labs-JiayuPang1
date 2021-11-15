@@ -8,6 +8,7 @@
 #### There has never been a clear boundary between us and the machine.
 
 ## · Inspiration：
+----------
 
 #### *- In the past* ：The war,  colonization and slavery are the products of dehumanization, making people have no self-consciousness and work and live just as machines and beasts.
 
@@ -23,6 +24,7 @@
 
 
 ## Idea：
+-----------
 
 #### I want to make a mechanical device that interacts with people, people can control it, there are rules for entertaining the audience, and it will feed back a lot of interesting information. But in fact, the machine has its own set of rules to monitor human behavior. Both sets of rules are carried out at the same time.
 
