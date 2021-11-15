@@ -16,7 +16,7 @@
 
 #### *- In the past，The war,  colonization and slavery are the products of dehumanization, making people have no self-consciousness and work and live just as machines and beasts.*
 
-#### *After the Industrial Revolution，With the emerge of advanced science and technology, lots of machines that can liberate human labor /but… human beings still cannot get rid of the boring work like machine.*
+#### *After the Industrial Revolution，With the emerge of advanced science and technology, lots of machines that can liberate human labor ,but… human beings still cannot get rid of the boring work like machine.*
 
 
 ## · 03
