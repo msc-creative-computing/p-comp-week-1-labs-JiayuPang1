@@ -30,8 +30,8 @@
 
 #### When people finish interacting with the first screen and turn to the other side, they will find the real intention of the machine.
 #### In this way, we hope to trigger people's thinking. 
-#### ? Is the surface you see real ? 
-#### ? Who is controlling whom ? 
+#### ~~? Is the surface you see real ? ~~
+#### ~~? Who is controlling whom ? ~~
 
 
 
