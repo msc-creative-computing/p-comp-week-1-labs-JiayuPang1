@@ -14,16 +14,16 @@
 
 ![PJY pre02 1027](https://user-images.githubusercontent.com/92034503/141848850-32d2124b-8a1e-498e-b6af-7b664c9a3511.jpg)
 
-#### *- In the past，The war,  colonization and slavery are the products of dehumanization, making people have no self-consciousness and work and live just as machines and beasts.*
+#### *- In the past，The war, colonization and slavery are the products of dehumanization, making people have no self-consciousness and work and live just as machines and beasts.*
 
-#### *After the Industrial Revolution，With the emerge of advanced science and technology, lots of machines that can liberate human labor ,but… human beings still cannot get rid of the boring work like machine.*
+#### *After the Industrial Revolution, With the emerge of advanced science and technology, lots of machines that can liberate human labor ,but… human beings still cannot get rid of the boring work like machine.*
 
 
 ## · 03
 
 ![PJY pre03 1027](https://user-images.githubusercontent.com/92034503/141849247-c44a8b4a-df06-46c0-93cd-a072f8bd64a2.jpg)
 
-#### *- Nowdays,Many people live without any aims and repeat the work day by day ,walking forward along the same track of life just as a machine without thoughts.*
+#### *- Nowdays, many people live without any aims and repeat the work day by day, walking forward along the same track of life just as a machine without thoughts.*
 
 
 ## · 04
