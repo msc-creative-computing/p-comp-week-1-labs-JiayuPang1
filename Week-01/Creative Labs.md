@@ -2,7 +2,7 @@
 
 # **Don't Choose**
 -----------------
-#### Make decisions efficiently and minimize the energy consumption of human choice.
+#### *Make decisions efficiently and minimize the energy consumption of human choice.*
 
 
 ## Operating mode
