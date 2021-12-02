@@ -1,0 +1,93 @@
+#include <Adafruit_NeoPixel.h>      
+#define PIN 5             // input pin Neopixel is attached to
+#define NUMPIXELS      144       // number of neopixels in strip
+Adafruit_NeoPixel pixels = Adafruit_NeoPixel(NUMPIXELS, PIN, NEO_GRB + NEO_KHZ800);
+int buzzer = 4;             
+int key = 2;
+int pot = A0;             
+int pho = A1;             
+bool flag = 0;
+void setup()
+{
+  Serial.begin(9600);         
+  pixels.begin();           
+  pinMode(buzzer,OUTPUT);       
+  noTone(buzzer);           
+    pinMode(key,INPUT_PULLUP);
+}
+
+void loop()
+{
+  Serial.println(flag);
+  key_scan();
+  if(flag == 0)
+  {
+  int phoval = analogRead(pho);       /
+    
+  if(phoval > 800)              //如果大于800
+  {
+    int potval = analogRead(pot);     //读取电位器数据
+        Serial.println(potval);         //串口输出电位器数据
+    int val = map(potval,0,1023,100,500); 
+    tone(buzzer,val);          
+    for (int i=0; i < NUMPIXELS; i++)     
+    {
+      pixels.setPixelColor(i, pixels.Color(255,0,0)); //灯带亮红色
+      pixels.show();
+    }
+      for(int i = 0;i<val;i++)    
+      {
+        delay(1);
+        key_scan();
+        if(flag == 1)break;
+      }                   
+    for (int i=0; i < NUMPIXELS; i++) 
+    {
+      pixels.setPixelColor(i, pixels.Color(0,0,0)); //灯带熄灭
+      pixels.show();
+    }
+    for(int i = 0;i<val;i++)    
+      {
+        delay(1);
+        key_scan();
+        if(flag == 1)break;
+      }                     
+  }
+  
+  else                          //否则
+  {
+    noTone(buzzer);                   
+    for (int i=0; i < NUMPIXELS; i++) 
+    {
+      pixels.setPixelColor(i, pixels.Color(0,0,0)); 
+      pixels.show();
+    }
+    
+  }
+  }
+  
+  if(flag == 1)
+  {
+    noTone(buzzer);                   
+    for (int i=0; i < NUMPIXELS; i++) 
+    {
+      pixels.setPixelColor(i, pixels.Color(0,0,0)); /
+      pixels.show();
+    }
+  }
+ } 
+    void key_scan()
+    {
+      if(digitalRead(key) == LOW)
+      {
+       delay(15);
+        if(digitalRead(key) == LOW)
+        {
+         flag = !flag;
+          while(digitalRead(key) == LOW)
+          {
+            
+          }
+        }
+      }
+    }
