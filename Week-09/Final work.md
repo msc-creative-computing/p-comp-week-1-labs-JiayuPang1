@@ -40,9 +40,9 @@
 
 ![幻灯片8](https://user-images.githubusercontent.com/92034503/144468507-2abdb829-b51d-4717-8e25-8c11084976f6.jpeg)
 
-#### *- This is an art installation that reflects the struggle between humans and machines. *
+#### *- This is an art installation that reflects the struggle between humans and machines.*
 #### *Try to show the hostile relationship between humans and machines or AI itself.*
-#### *When we are developing AI, we also become unable to separate from them, or bring them to the end. *
+#### *When we are developing AI, we also become unable to separate from them, or bring them to the end.*
 #### *In order to continue to have the initiative to control the machine, we also need to continuously improve ourselves.*
 #### *Perhaps under this premise, we ourselves can try to associate with the machine to improve the individual.*
 
@@ -72,7 +72,7 @@
 ![幻灯片13](https://user-images.githubusercontent.com/92034503/144470401-3b66e52b-648c-4e6c-8ed6-356b0ec15b22.jpeg)
 
 #### *- This is the video link.*
-<a href="hhttps://youtu.be/39g0oqsmZbc" target="_blank">Process video</a>
+<a href="hhttps://youtu.be/39g0oqsmZbc" target="_blank">Final video</a>
 ![幻灯片14](https://user-images.githubusercontent.com/92034503/144470539-decfd473-65c5-43e0-86df-8ef5685fd4e6.jpeg)
 
 #### *- Introduction of final work.* 
