@@ -72,7 +72,8 @@
 ![幻灯片13](https://user-images.githubusercontent.com/92034503/144470401-3b66e52b-648c-4e6c-8ed6-356b0ec15b22.jpeg)
 
 #### *- This is the video link.*
-<a href="hhttps://youtu.be/39g0oqsmZbc" target="_blank">Final video</a>
+<a href="https://youtu.be/39g0oqsmZbc" target="_blank">Final video</a>
+
 ![幻灯片14](https://user-images.githubusercontent.com/92034503/144470539-decfd473-65c5-43e0-86df-8ef5685fd4e6.jpeg)
 
 #### *- Introduction of final work.* 
@@ -93,4 +94,5 @@
 
 ![幻灯片21](https://user-images.githubusercontent.com/92034503/144471250-0cbd234d-8bf5-4d37-b689-e099044e66fa.jpeg)
 
-## Fighting！！！
+--------
+## Thank you！！！
