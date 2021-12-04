@@ -1,4 +1,4 @@
-#### **Final Work**
+#### **· Final Work ·**
 # **Christmas DreamWorks**
 ----------
 #### *It is an exploration of 3D scene and VR interaction*
