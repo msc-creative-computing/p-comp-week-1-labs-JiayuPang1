@@ -3,7 +3,7 @@
 ----------
 ## puzzle
 
-##Tgd bgzkkdmfd hr rhlokd, qhfgs? Tgd rnktshnm hr sgd rzld zr sgd rdbnmc kdudk ne sgd oxsgnm bgzkkdmfd. Bts vgzs I vzms sn qdlhmc dudqxnmd gdqd hr sgzs sgdqd zqd lzmx cheedqdmbdr zmc hmbnlozshahkhshdr adsvddm oxsgnm3 zmc oxsgnm, enq dwzlokd, rsq.lzjdsqzmr() zmc rsq.sqzmrkzsd() bzm ad trdc chqdbskx vhsgnts eqnl rsqhmf hlonqs lzjdsqzmr. Gn zmc dwoknqd enq xntqrdke!!
+## Tgd bgzkkdmfd hr rhlokd, qhfgs? Tgd rnktshnm hr sgd rzld zr sgd rdbnmc kdudk ne sgd oxsgnm bgzkkdmfd. Bts vgzs I vzms sn qdlhmc dudqxnmd gdqd hr sgzs sgdqd zqd lzmx cheedqdmbdr zmc hmbnlozshahkhshdr adsvddm oxsgnm3 zmc oxsgnm, enq dwzlokd, rsq.lzjdsqzmr() zmc rsq.sqzmrkzsd() bzm ad trdc chqdbskx vhsgnts eqnl rsqhmf hlonqs lzjdsqzmr. Gn zmc dwoknqd enq xntqrdke!!
 
 
 #### hint
