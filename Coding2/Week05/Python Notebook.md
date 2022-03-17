@@ -63,5 +63,4 @@ list1.append(‘E')    # 列表添加元素
 list1.insert(0 , 'F')   # 在某处插入元素
 
 具体示例：
-![image](https://user-images.githubusercontent.com/92034503/158815507-c44a5bae-24d4-494b-a041-9826164b0594.png)
-
+![图片 37](https://user-images.githubusercontent.com/92034503/158815635-b63d00e1-054d-4a8e-af68-9329e0c9fb0e.png)
