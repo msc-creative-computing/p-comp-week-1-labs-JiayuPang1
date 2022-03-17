@@ -25,18 +25,18 @@ When different types of equations have the same expression, the machine will aut
 
 ## List
 
-### 列表（list）是最常用的Python数据类型，它可以作为一个方括号内的逗号分割值出现。
+##### 列表（list）是最常用的Python数据类型，它可以作为一个方括号内的逗号分割值出现。
 
-### List中的数据项不需要具有相同的类型，可以进行的操作包括索引（第一个索引是0，第二个索引是1，以此类推）、切片、加、乘、检查成员等。
+##### List中的数据项不需要具有相同的类型，可以进行的操作包括索引（第一个索引是0，第二个索引是1，以此类推）、切片、加、乘、检查成员等。
 
 
-### 创建一个列表，只要把逗号分割的不同的数据项使用方括号括起来即可，如下所示：
+##### 创建一个列表，只要把逗号分割的不同的数据项使用方括号括起来即可，如下所示：
 
-### list1 = [‘physics', ‘chemistry', 1997, 2000]（，数字直接写，字符用“”） ??????
+##### list1 = [‘physics', ‘chemistry', 1997, 2000]（，数字直接写，字符用“”） ??????
 
-### list2 = [1,2,3,4,5]
+##### list2 = [1,2,3,4,5]
 
-### list3 = ["a", "b", "c", "d"]
+##### list3 = ["a", "b", "c", "d"]
 
 ### 与字符串的索引一样，List索引从0开始，可以进行截取、组合等操作
 
@@ -44,13 +44,13 @@ When different types of equations have the same expression, the machine will aut
 
 ### 使用下标索引来访问列表中的值，同样你也可以使用方括号的形式截取字符，如下所示：
 
-### list1[0]   取第一个元素
+##### list1[0]   取第一个元素
 
-### list1[-1]  取最后一个元素
+##### list1[-1]  取最后一个元素
 
-### list1[ : ] / list1[ : len(list1)] 取所有列表元素
+##### list1[ : ] / list1[ : len(list1)] 取所有列表元素
 
-### list1[0 : n] # 从第0号取到n-1号元素
+##### list1[0 : n] # 从第0号取到n-1号元素
 
 ### 输出如下：
  <img width="202" alt="图片 36" src="https://user-images.githubusercontent.com/92034503/158815021-6793b0af-d670-426b-b55f-36c7793c1879.png">
