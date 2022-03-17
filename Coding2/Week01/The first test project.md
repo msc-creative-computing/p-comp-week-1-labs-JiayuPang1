@@ -278,12 +278,13 @@ cout << anotherFloat << endl;
   
 ![图片 11](https://user-images.githubusercontent.com/92034503/158792650-c9400e7f-9003-4a85-acc8-2bd0be93bc38.png)
 ## declear & define
-  
+![图片 12](https://user-images.githubusercontent.com/92034503/158795015-b1c889e5-5087-4efb-8036-4c3960071f89.png)
+
+  <img width="432" alt="图片 13" src="https://user-images.githubusercontent.com/92034503/158795031-a8be2b0a-ba38-4e77-8cc0-beee96bf318e.png">
+
 !注意：永远不要在文件中多次使用相同的对象名字
 
 !注意：如果declare里需要用到函数等，就在最上面的include列里 
- 加上
- #include <math.h>   其他同理。
-  
-
+加上
+#include <math.h>   其他同理。
 
