@@ -15,11 +15,12 @@ HTML链接是通过<a>标签进行定义的：
 <a href=“ ...”> 
 href abbr. 超文本引用（hypertext reference）；超链接
 e.g. 
+
 <a href= “一个网址链接”> this is a link</a>
 
 HTML图像是通过<img>标签进行定义的：
 e.g.
-<img src=“本地或网图都可” width= “200” alt=“图像不存在”/>
+<img src=“img link” width= “200” alt=“图像不存在”/>
  width图片宽度200
 
 <img width="432" alt="图片 58" src="https://user-images.githubusercontent.com/92034503/158820251-3cfa061c-80d6-41a5-be43-763f6f95f5f3.png">
