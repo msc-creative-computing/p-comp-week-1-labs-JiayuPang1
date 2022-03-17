@@ -283,9 +283,7 @@ cout << anotherFloat << endl;
 
 !注意：如果declare里需要用到函数等，就在最上面的include列里 
  加上
-#include <math.h>   其他同理。
+ #include <math.h>   其他同理。
   
-![image](https://user-images.githubusercontent.com/92034503/158792847-107837be-2a91-4219-8c4d-c2136d2ef2af.png)
-
 
 
