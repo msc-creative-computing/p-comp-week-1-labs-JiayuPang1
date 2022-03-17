@@ -54,3 +54,14 @@ When different types of equations have the same expression, the machine will aut
 
 ### 输出如下：
  <img width="202" alt="图片 36" src="https://user-images.githubusercontent.com/92034503/158815021-6793b0af-d670-426b-b55f-36c7793c1879.png">
+ 
+更新列表
+可以对列表的数据项进行修改或更新，也可以使用append()方法来添加列表项，如下所示：
+
+list1[0] = ‘D'       # 修改元素值
+list1.append(‘E')    # 列表添加元素
+list1.insert(0 , 'F')   # 在某处插入元素
+
+具体示例：
+![image](https://user-images.githubusercontent.com/92034503/158815507-c44a5bae-24d4-494b-a041-9826164b0594.png)
+
