@@ -76,26 +76,34 @@ int main(int argc, const char * argv[ ]) {
 endl只是一个函数模板。
 其主要搭配iostream对象来使用,如cout、cerr等，
 其作用是：
+  
 1.将换行符写入输出流，其中Unix/Linux换行符是\n，Windows中是\r\n，MAC中是\r；
+  
 2.清空输出缓冲区。
-在 c++中如何使用输入\输出符endl。
+  
+## 在c++中如何使用输入\输出符endl。
 比如在语句 ：
 cout<<"the id is"<<endl <<2；
 cout<<"the id is"<<i << endl；
 那么意思是：
 endl就相当于输出的时候回车。
-第一句的输出是:
+  
+·第一句的输出是:
 the id is
 2
-第二句的输出是:
+  
+·第二句的输出是:
 the id is i
 然后光标到了第二行。
-额外的，还可以这样使用endl：
+
+  额外的，还可以这样使用endl：
 std::endl(cout); // 等于 std::endl(std::cout);
+  
 std::endl(cout << "this id is" << i); // 等于 std::endl(std::cout << "this id is" << i);
 （注：这是由于Koenig looup法则）
-其中第一句等同于:std::cout << std::endl; // 不能写成std::cout << endl;
-第二句等于：std::cout << "this id is" << i << std::endl; // 如上所述
+ 其中第一句等同于:std::cout << std::endl; // 不能写成std::cout << endl;
+  
+ 第二句等于：std::cout << "this id is" << i << std::endl; // 如上所述
 ————————————————
 ##### 版权声明：本文为CSDN博主「luckyone906」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
 原文链接：https://blog.csdn.net/u011555996/article/details/51168710
