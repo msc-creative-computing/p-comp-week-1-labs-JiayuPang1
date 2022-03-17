@@ -284,7 +284,9 @@ cout << anotherFloat << endl;
 
 !注意：永远不要在文件中多次使用相同的对象名字
 
-!注意：如果declare里需要用到函数等，就在最上面的include列里 
-加上
-#include <math.h>   其他同理。
+!注意：如果declare里需要用到函数等，
+  就在最上面的include列里加上
+  
+#include <math.h>   
+  其他同理。
 
