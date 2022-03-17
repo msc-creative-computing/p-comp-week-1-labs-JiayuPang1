@@ -1,5 +1,6 @@
 
-# **Coding 02-Week 01 Notebook**
+## **Coding 02-Week 01 **
+# Notebook
 # **C++ & IDE**
 ----------
 ## IDE:iterative development environment
