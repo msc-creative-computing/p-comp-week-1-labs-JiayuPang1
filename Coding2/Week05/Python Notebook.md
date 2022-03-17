@@ -22,6 +22,7 @@ When different types of equations have the same expression, the machine will aut
 ## python Arrays
 
 <img width="433" alt="图片 35" src="https://user-images.githubusercontent.com/92034503/158813593-5ae88a8c-33b1-45c9-b3d2-75a009cfff16.png">
+
 ## 1.List
 
 ### 列表（list）是最常用的Python数据类型，它可以作为一个方括号内的逗号分割值出现。
