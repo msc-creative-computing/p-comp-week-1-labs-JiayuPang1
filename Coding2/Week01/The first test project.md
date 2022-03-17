@@ -211,7 +211,8 @@ int main(int argc, const char * argv[ ]) {
 }
 
 ## void & int 区别
-             ![图片 6](https://user-images.githubusercontent.com/92034503/158791785-af8ec8b9-cdde-42ca-8c1e-53159c829503.png)
+![图片 6](https://user-images.githubusercontent.com/92034503/158794462-3611e277-b80c-411c-935b-97217fc5d085.png)
+
                                
          <img width="419" alt="图片 7" src="https://user-images.githubusercontent.com/92034503/158791795-b590ede5-1a0f-4be8-aff0-c39d60cf1f6d.png">
   
