@@ -44,14 +44,13 @@ When different types of equations have the same expression, the machine will aut
 
 ### 使用下标索引来访问列表中的值，同样你也可以使用方括号的形式截取字符，如下所示：
 
-### list1[0]   #取第一个元素
+### list1[0]   取第一个元素
 
-### list1[-1]  # 取最后一个元素
+### list1[-1]  取最后一个元素
 
-### list1[ : ] / list1[ : len(list1)]  # 取所有列表元素
+### list1[ : ] / list1[ : len(list1)] 取所有列表元素
 
 ### list1[0 : n] # 从第0号取到n-1号元素
 
 ### 输出如下：
- 
-![image](https://user-images.githubusercontent.com/92034503/158813683-09ac7da0-0cf3-43f4-b4a3-e18d36762124.png)
+ <img width="202" alt="图片 36" src="https://user-images.githubusercontent.com/92034503/158815021-6793b0af-d670-426b-b55f-36c7793c1879.png">
