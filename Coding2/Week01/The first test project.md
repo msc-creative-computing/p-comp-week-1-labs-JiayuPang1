@@ -15,8 +15,15 @@
 · #include
 · namespace 命名空间
 · print to the console
-  e.g. “count” standard namespace. 否则 “std”+ “count”
+  e.g. “count” --> standard namespace. 否则 “std”+ “count”
+  
+![图片 1](https://user-images.githubusercontent.com/92034503/158789731-8af44a45-780d-4b40-8318-5a7c425ca87f.jpg)
 
+· w3c 学校的 C++ 教程:
+https ://www.w3schools.com/cpp/
+
+
+## Xcode
 
 
 
