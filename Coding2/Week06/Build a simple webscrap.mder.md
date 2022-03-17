@@ -8,7 +8,9 @@
 
 html 有很多标记模式 这些标记其实就是网页显示内容的属性
 比如
+
 <img width="255" alt="图片 57" src="https://user-images.githubusercontent.com/92034503/158820140-824b4bff-d6c2-45cd-88d2-db90cce92b50.png">
+
 HTML链接是通过<a>标签进行定义的：
 <a href=“ ...”> 
 href abbr. 超文本引用（hypertext reference）；超链接
@@ -21,9 +23,11 @@ e.g.
  width图片宽度200
 
 <img width="432" alt="图片 58" src="https://user-images.githubusercontent.com/92034503/158820251-3cfa061c-80d6-41a5-be43-763f6f95f5f3.png">
+ 
 如何查看网页源代码：
 单击右键+“查看源代码”
 单击右键+“检查”！推荐 结构更清晰
+ 
 ![图片 59](https://user-images.githubusercontent.com/92034503/158820336-5cc97bd2-e42f-44a5-8631-8229f580e922.png)
 
 ## Requests
@@ -62,6 +66,7 @@ print(page_text)
                           2.标签对应的属性中
   
   ![图片 60](https://user-images.githubusercontent.com/92034503/158820771-b957e722-4076-42a5-a367-78d0c1c58dda.png)
+ 
  - 进行指定标签的定位
   - 标签或标签对应的属性中存储的数据进行提取（解析）
                                                                
