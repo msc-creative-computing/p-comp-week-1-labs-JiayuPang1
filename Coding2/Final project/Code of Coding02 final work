@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script src="https://aframe.io/releases/1.2.0/aframe.min.js">
+    
+      </script>
+     <script src = "https://rawgit.com/nexus-js/ui/master/dist/NexusUI.js"></script>
+  </head>
+  <body>
+   <div id="playButtonContainer">
+      <div><button id="playButton">PLAY</button></div>
+     </div>
+  <a-scene>
+    <a-assets>
+    <img id = "Londonbridge" src="work 1.png">
+       <img id = "LondonEye" src="work 2.png">
+       <img id = "BigBen" src="work 3.png">
+       <img id = "StCypriansChurch" src="work 4.png">
+       <img id = "AdmiraltyArch" src="work 5.png">
+       <img id = "AnEasternGreySquirrel" src="work 6.png">
+       <img id = "TheShard" src="work 7.png">
+       <img id = "Londonbus" src="work 8.png">
+       <img id = "RiverThames" src="work 9.png">
+       <img id = "TelephoneBoxes" src="work 10.png">
+      <img id = "ring" src="ring.png">
+      <img id = "luminous" src="luminous.png">
+    <img id="skyTexture"
+      src="https://upload.wikimedia.org/wikipedia/commons/3/30/Freezed_XRD.jpg">
+     //这里加载纹理图片
+      
+
+</a-assets>
+   //所有形状在这个下面加载
+ 
+   
+  <a-sky src="#skyTexture"></a-sky>
+
+    <a-box src=#Londonbridge position="-4 5 6" rotation="0 0 0"  scale="0.5 8 8"></a-box>
+      <a-box src=#LondonEye position="-10 5 20" rotation="0 0 0"  scale="0.5 8 8"></a-box>
+     <a-box src=#BigBen position="-8 0 12" rotation="0 0 0"  scale="0.5 8 8"></a-box>
+     <a-box src=#StCypriansChurch position="-24 -15 5" rotation="0 0 0"  scale="0.5 8 8"></a-box>
+     <a-box src=#AdmiraltyArch position="-4 0 -12" rotation="0 0 0"  scale="0.5 8 8"></a-box>
+     <a-box src=#AnEasternGreySquirrel position="2 4 -6" rotation="0 0 0"  scale="0.5 8 8"></a-box>
+     <a-box src=#TheShard position="-30 -4 -20" rotation="0 0 0"  scale="0.5 8 8"></a-box>
+     <a-box src=#Londonbus position="10 0 4" rotation="0 0 0"  scale="0.5 8 8"></a-box>
+     <a-box src=#RiverThames position="-17 -10 20" rotation="0 0 0"  scale="0.5 8 8"></a-box>
+     <a-box src=#TelephoneBoxes position="-6 -12 -4" rotation="0 0 0"  scale="0.5 8 8"></a-box>
+    //正方体
+     
+    <a-sphere src=#luminous position="5 15 5" radius="1.25" color="#FFAFA"></a-sphere>
+      <a-sphere src=#luminous position="-15 -20 -15" radius="1.25" color="#FFAFA"></a-sphere>
+     <a-sphere src=#luminous position="-10 11.5 5.5" radius="1.25" color="#FFAFA"></a-sphere>
+//球体
+    
+    <a-sphere src=#luminous position="1 8 -5.5" radius="0.3" color="#FFAFA" animation = "property: object3D.position.z; to:25 ; dir:alternate ; dur: 3000; loop: true"></a-sphere>
+    <a-sphere src=#luminous position="-5 -8 -10" radius="0.3" color="#FFAFA" animation = "property: object3D.position.z; to:20 ; dir:alternate ; dur: 4000; loop: true"></a-sphere>
+    //球体+动画
+    < a-cone  position="0 6.5 -5.5 " height = "2"  radiusbottom="2" radiustop= "0.1" rotation="0 0 -15" color="#8B0000" animation = "property: object3D.position.y; to: 7.5; dir:alternate ; dur: 2000; loop: true"></a-cone>
+    //圆锥+动画
+  
+    < a-cylinder position="0.5 2.2 -4" radius="0.2" height="1" color="#8B0000" rotation="-35 60 -35"></a-cylinder>
+    //无动画圆柱体
+    
+    < a-cylinder position="-2 2 -3" radius="0.03" height="0.5" color="#FFAFA" animation = "property: object3D.position.y; to: 2.2; dir:alternate ; dur: 2000; loop: true"></a-cylinder>
+    //圆柱体+动画
+    
+   
+    
+    
+ 
+  < a-cone src=#treeTexture position="-4.3 5 -5.8 " height = "12"  radiusbottom="2" radiustop= "0.1" rotation="-3 0 0"  ></a-cone>
+    //圆锥体
+    
+    <a-torus src=#ring position="15 -5 15 " radius = "20"  radiustubular = "1" rotation="0 30 0" arc= "320"></a-torus>
+        <a-torus src=#ring position="10 -5 10 " radius = "20"  radiustubular = "1" rotation="0 30 0" arc= "320"></a-torus>
+    <a-torus src=#ring position="5 -5 5 " radius = "20"  radiustubular = "1" rotation="0 30 0" arc= "320"></a-torus>
+    <a-torus src=#ring position="0 -5 0 " radius = "20"  radiustubular = "1" rotation="0 30 0" arc= "320"></a-torus>
+    <a-torus src=#ring position="-5 -5 -5 " radius = "18"  radiustubular = "1" rotation="0 30 0" arc= "320"></a-torus>
+    <a-torus src=#ring position="-10 -5 -10 " radius = "15"  radiustubular = "1" rotation="0 30 0" arc= "320"></a-torus>
+    <a-torus src=#ring position="-15 -5 -15 " radius = "15"  radiustubular = "1" rotation="0 30 0" arc= "320"></a-torus>
+     <a-torus src=#ring position="-20 -5 -20 " radius = "15"  radiustubular = "1" rotation="0 30 0" arc= "320"></a-torus>
+    //这个是圆环形状
+    
+    <a-octahedron src=#luminous position="5 5 8 " radius = "1" rotation="-3 0 -50" animation = "property: object3D.position.y; to: 2; dir:alternate ; dur: 6000; loop: true"></a-octahedron>
+    <a-octahedron src=#luminous position="-5 13 -3 " radius = "1" rotation="-3 0 -50" animation = "property: object3D.position.y; to: 2; dir:alternate ; dur: 6000; loop: true"></a-octahedron>
+    //这个是八面体
+
+     // < a-plane src=#xueTexture position="1 -10 0" rotation="-90 0 0" width="100" height="100" ></a-plane>
+    //这里是地板
+    
+     <a-entity text = "value: Personal Exhibition; color: #BBB" position = "30 0 20" scale = "40 40 40" rotation="0 0 0"> </a-entity>
+    <a-entity text = "value: Impressions of London; color: #BBB" position = "30 -5 20" scale = "40 40 40" rotation="0 10 0"> </a-entity>
+    <a-entity text = "value: AI Artist: Alloy-x; color: #BBB" position = "30 -10 20" scale = "40 40 40" rotation="0 10 0" > </a-entity>
+    //这里是文字编辑，可以设计AI ARTIST想说的话
+  
+ 
+    
+    <a-sound src = "8718.wav" autoplay = "true" position="10 3.5 15" ></a-sound>
+     //这里添加一个符合科技感展览的bgm
+    </a-scene>
+  </body>
+</html>
