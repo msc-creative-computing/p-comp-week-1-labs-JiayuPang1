@@ -1,8 +1,8 @@
 ## Final Project
 # Project Description
 # Final Work: Personal Art Exhibition- AI Artist "Alloy-X"
-##_________________________________________________________
-####An interesting online exhibition dedicated to AI-created artwork.
+## _________________________________________________________
+#### An interesting online exhibition dedicated to AI-created artwork.
 
 ## Concept
 ### An interesting online art exhibition. The theme of the exhibition is called: Impressions of London. Each piece shows the artist's feelings about London from his perspective, using a different way of painting. Interestingly, the author of these works is not a human, but the AI artist Alloy-X. Feel free to explore the space and experience the difference these special works can make for your visual enjoyment.
