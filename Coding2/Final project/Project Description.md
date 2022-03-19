@@ -64,7 +64,7 @@ https://mimicproject.com/code/ed45a382-0e63-a45a-87e7-bfb767e48e00
 
 
 ### 2.	Code：
-
+https://github.com/msc-creative-computing/p-comp-week-1-labs-JiayuPang1/tree/main/Coding2/Final%20project/Code
 ### 3.	video of final work:
 https://youtu.be/ltZcawtu4XU
 
