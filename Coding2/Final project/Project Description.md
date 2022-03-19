@@ -18,12 +18,12 @@
 
 ## Technology and Interactive Mode
 ## Techniques
-### 1. Firstly, the "Fast Style Transfer for Arbitrary Styles" technique in python is used to generate many different styles.
-### The "Fast Style Transfer for Arbitrary Styles" technique is used to generate many different styles.
-### 2. Build a basic A-Frame interactive scene using MIMIC.
+#### 1. Firstly, the "Fast Style Transfer for Arbitrary Styles" technique in python is used to generate many different styles.
+#### The "Fast Style Transfer for Arbitrary Styles" technique is used to generate many different styles.
+#### 2. Build a basic A-Frame interactive scene using MIMIC.
 
 ## Interactive Mode
-### 1. Long press the mouse on the screen to rotate the space 360 degrees.
+1. Long press the mouse on the screen to rotate the space 360 degrees.
 2. "W", "A", "D" and "S" on the keyboard can respectively control the image to move up/left/right/down.
 3. The audience watching on the mobile phone can rely on the gravity sensor to watch the scenery in the space.
 4. The background music is automatically played when loading out of the interface. And the sound level will be changed according to the fixed position of the code. When the audience is far away from the scene, the music becomes less sound. When the audience approaches the scene, the music becomes louder.
@@ -50,7 +50,8 @@
 #### _______________________________________________________________________________________
 
 ## Reference
-### 1. Inceptionism: Going Deeper into Neural Networks https://ai.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html
+### 1. Inceptionism: Going Deeper into Neural Networks 
+https://ai.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html
 ### 2. 十个生成模型(GANs)的最佳案例和原理 | 代码+论文
 https://cloud.tencent.com/developer/article/1075684
 ### 3. Fast Style Transfer for Arbitrary Styles
