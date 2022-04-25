@@ -25,6 +25,8 @@
 ### Dio is a sculpture of our era, which is made of computer's original materials to represent the characteristics of the current era.
 ### Meanwhile, the data and computers used to create Dio have become part of the work, making the work non-reproducible.
 
+————————————————————————————————————————————————————————————————
+
 ### reference: Wu, C., Seokin, K. & Zhang, L. (2021) On GANs Art in Context of Artificial Intelligence Art, ICMLSC.
 
 
