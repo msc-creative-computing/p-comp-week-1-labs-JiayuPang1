@@ -3,7 +3,7 @@
 
 ## Dio (2018) by New York artist Ben Snell.
 ![Dio stature](https://user-images.githubusercontent.com/92034503/165130606-5862bff3-419f-46a1-bba2-9dcdf7a18240.jpeg)
-![Dio stature2](https://user-images.githubusercontent.com/92034503/165131420-4d91b5cd-6082-4d02-952d-ef5319095d3e.jpeg)
+
 ![stature of Dio](https://user-images.githubusercontent.com/92034503/165130689-c7ca6c95-ed89-43f2-a8a7-104bb4462ed4.jpeg)
 ### Dio the Sculpture is the work of New York artist Ben Snell. It is named Dio as tribute to the Greek god of wine Dionysus. 
 ### It is made by using GANs, 3D printing, and other new technologies collaboratively, 
