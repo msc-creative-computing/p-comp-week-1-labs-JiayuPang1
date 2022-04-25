@@ -1,7 +1,7 @@
 # Sharing of creative works about ML
 ————————————————————————————————————————
 
-## Dio (2018) by New York artist Ben Snell.
+## · Dio (2018) by New York artist Ben Snell.
 ![Dio stature](https://user-images.githubusercontent.com/92034503/165130606-5862bff3-419f-46a1-bba2-9dcdf7a18240.jpeg)
 
 ![stature of Dio](https://user-images.githubusercontent.com/92034503/165130689-c7ca6c95-ed89-43f2-a8a7-104bb4462ed4.jpeg)
@@ -27,6 +27,6 @@
 
 ————————————————————————————————————————————————————————————————
 
-### reference: Wu, C., Seokin, K. & Zhang, L. (2021) On GANs Art in Context of Artificial Intelligence Art, ICMLSC.
+#### Reference: Wu, C., Seokin, K. & Zhang, L. (2021) On GANs Art in Context of Artificial Intelligence Art, ICMLSC.
 
 
