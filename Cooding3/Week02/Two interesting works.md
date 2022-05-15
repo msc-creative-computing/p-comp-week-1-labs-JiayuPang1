@@ -13,5 +13,7 @@
 
 #### 2. “Create single line SVG illustrations from your pictures”
 #### This is an open source project where users can generate line illustrations from pictures. In the algorithm part: use face-api to achieve better face definition.
+<img width="424" alt="截屏2022-05-15 下午5 00 35" src="https://user-images.githubusercontent.com/92034503/168482130-8c487b76-a520-4af2-8e88-fa8d9991d31b.png">
+
 #### Here are the related links：
 https://github.com/javierbyte/pintr
