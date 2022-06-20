@@ -1,6 +1,8 @@
 ## Final Work
 # Train StyleGAN on a custom dataset
 -------------------------
+#### A link to a GitHub code repository：
+https://github.com/JiayuPang1/hello-CCI-world/blob/main/Coding03final.ipynb
 
 ## 1. Background:
 #### Generative Adversarial Networks (GANs) are a recent innovation in machine learning, first proposed in 2014 by Ian J. Goodfellow and colleagues. 
