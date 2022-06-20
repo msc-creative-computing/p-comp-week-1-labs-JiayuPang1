@@ -54,7 +54,8 @@
 #### I found 120 snail pictures on the Internet and processed them into a uniform square size of 128*128 with 1024 pixels. 
 #### I try to generate my own dataset and train on StyleGan.
 ## 5. Display the final result
-111111
+![1655733492166](https://user-images.githubusercontent.com/92034503/174618272-b8808da0-1e51-4a37-810e-27a0704b53f9.gif)
+
 #### Finally, the training was successfully carried out through multiple practices, and pictures were generated.
 
 #### In fact, I prefer the half-finished product during the training process to the final training image. 
