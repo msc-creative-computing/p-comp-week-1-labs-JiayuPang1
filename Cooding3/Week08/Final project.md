@@ -57,6 +57,7 @@
 ![1655733492166](https://user-images.githubusercontent.com/92034503/174618272-b8808da0-1e51-4a37-810e-27a0704b53f9.gif)
 
 #### Finally, the training was successfully carried out through multiple practices, and pictures were generated.
+![1655733680749](https://user-images.githubusercontent.com/92034503/174618767-20360b17-3c72-441e-a536-961e2fa6e949.gif)
 
 #### In fact, I prefer the half-finished product during the training process to the final training image. 
 <img width="722" alt="截屏2022-06-20 上午1 53 36" src="https://user-images.githubusercontent.com/92034503/174507685-fac8e140-e3ba-4b52-8a36-9fe88645414f.png">
