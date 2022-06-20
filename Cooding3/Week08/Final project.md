@@ -25,7 +25,8 @@
 #### When running the code, there were some problems that affected the successful operation, which were finally successfully solved by searching for information and trial and error.
 
 ####(1) Run the following code on colab and find that the GPU cannot be found
-111111
+<img width="547" alt="截屏2022-06-19 下午11 46 37" src="https://user-images.githubusercontent.com/92034503/174506846-505d5424-d006-487b-8ceb-b45fc05d2622.png">
+
 #### Solution: In colab's "Notebook Settings", find "Hardware Accelerator" and select "GPU"
 
 #### (2) How to read the picture set?
@@ -34,7 +35,8 @@
 ####     Then copy its file path (note that the file must be a compressed folder)
 
 #### (3) In the code below, the dataset_path I entered keeps showing an error that the file cannot be found.
-1111111
+<img width="787" alt="截屏2022-06-19 下午11 52 16" src="https://user-images.githubusercontent.com/92034503/174506881-a4de0439-1170-4b1f-bbb0-e0d93076a7e9.png">
+
 ####     Note: The file path to be copied here refers to the path to the automatically generated folder in colab. 
 ####     It is formed after the compressed file is recognized in colab and successfully decompressed.
 
@@ -42,7 +44,8 @@
 ####      During the last step of training, I was prompted with the above error again.
 ####      Solution: Add the following code at the beginning of the file:
 ####      pip install numpy==1.19.5
-111111
+<img width="810" alt="截屏2022-06-19 下午11 59 40" src="https://user-images.githubusercontent.com/92034503/174506895-12da4bcf-99da-46a7-b52b-031337c3bde4.png">
+
 ####      Note: After adding this line of code, You must restart the runtime in order to use newly installed versions.
 ####      The problem occurs when upgrading numpy 1.19 to 1.20 and using RLlib from internally used. Just downgrade raytensorflow 2.2.
 #### (5)  In order to speed up the training time, I changed the value of snapshot_count to 2.
