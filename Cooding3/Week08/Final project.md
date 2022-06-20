@@ -80,11 +80,17 @@ https://github.com/dvschultz/ml-art-colabs/blob/master/Stylegan2_ada_Custom_Trai
 
 #### Reading materials：
 https://github.com/NVlabs/stylegan
+
 https://arxiv.org/pdf/1812.04948.pdf
+
 https://www.youtube.com/watch?v=QBUFrep8ljI&t=194s
+
 https://stackoverflow.com/questions/63425209/cannot-identify-image-file-while-trying-to-use-tensorflow-on-google-collab
+
 https://zhuanlan.zhihu.com/p/427253416
+
 https://jishuin.proginn.com/p/763bfbd55298
+
 https://en.wikipedia.org/wiki/StyleGAN
 
 # In Conclusion
