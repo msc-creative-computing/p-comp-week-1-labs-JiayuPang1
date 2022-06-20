@@ -58,6 +58,11 @@
 #### Finally, the training was successfully carried out through multiple practices, and pictures were generated.
 
 #### In fact, I prefer the half-finished product during the training process to the final training image. 
+<img width="722" alt="截屏2022-06-20 上午1 53 36" src="https://user-images.githubusercontent.com/92034503/174507685-fac8e140-e3ba-4b52-8a36-9fe88645414f.png">
+<img width="572" alt="截屏2022-06-20 上午1 54 11" src="https://user-images.githubusercontent.com/92034503/174507693-b53e28d8-6b5c-43a8-a29d-def8426b40f2.png">
+<img width="623" alt="截屏2022-06-20 上午1 54 33" src="https://user-images.githubusercontent.com/92034503/174507697-bd054f42-9185-4b25-bc57-e6a1835ccf98.png">
+<img width="741" alt="截屏2022-06-20 上午1 55 08" src="https://user-images.githubusercontent.com/92034503/174507702-0bbc3c79-b53c-42f9-96cc-a4cb2cea3dbf.png">
+
 #### Their abstract outlines make me even more excited to create further. Each one has interesting textures.
 #### I will be training on a larger number of image datasets in the future. This time, due to time constraints, 
 #### I did not make further artistic creations, which is a pity for me.
